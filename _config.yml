@@ -16,36 +16,38 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: US/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Veilsec                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Cyber-Sec Notes & Write-ups   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A place for hackers, penetration testers,
+  red-teamers, blue-teamers, and cyber security
+  professionals of all kinds to learn and share ideas.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://sahilwep.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: sahilwep             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: sahilwep            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Sahil Kumar Sharma
+  email: sahilwep@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/sahilwep      # change to your twitter homepage
+    - https://github.com/sahilwep       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -83,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:  https://tryhackme-images.s3.amazonaws.com/user-avatars/567d136b966877ebadfe99757c5e3b06.png  
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -199,3 +201,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+
+future: true
+
+# published: true
+
+
