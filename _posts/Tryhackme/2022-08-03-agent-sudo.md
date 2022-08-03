@@ -1,8 +1,8 @@
 ---
 title: Agent Sudo
-date: 2022-07-04 12:12:12 -500
-categories: [Tryhackme, Agent Sudo]
-tags: [thm,tryhcakme,agentsudo,agent,] # tags shoud always lower cae
+date: 2022-08-03 12:12:12 -500
+categories: [Tryhackme, Writeups]
+tags: [thm,tryhcakme,agentsudo,agent,easy] # tags shoud always lower cae
 ---
 
 
@@ -18,4 +18,10 @@ This is a walkthrough of Agent Sudo Box from THM!
 * ports
 * rust scan
 
+
+
+
+
+
 ***
+
