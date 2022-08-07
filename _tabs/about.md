@@ -18,8 +18,13 @@ order: 4
 **Respect the Open-source Community**
 
 * **Site** =          [https://veilsec.org](https://veilsec.org)
-* **Blog** =          [https://sahilwep.github.io](https://sahilwep.github.io)
+
+* **Blog** =          [https://sahilwep.gitbook.io](https://sahilwep.gitbook.io)
+
+* **Notes** =          [https://sahilwep.gitbook.io](https://sahilwep.gitbook.io)
+
 * **GitHub** =        [https://github.com/sahilwep](https://github.com/sahilwep)
+
 * **Tryhackme** = [https://tryhackme.com/p/sahilwep](https://tryhackme.com/p/sahilwep)
 
 
