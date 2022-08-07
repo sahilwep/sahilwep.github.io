@@ -1,46 +1,22 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+# VEILSEC_RED_TEAM
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+![profile  logo](https://tryhackme-images.s3.amazonaws.com/user-avatars/567d136b966877ebadfe99757c5e3b06.png)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+## @Sahilwep
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+***I am a cyber-sec enthusiast who work as a Red-Teamer and i spend most of my time on playing CTF and Bug Hunting.***
 
-## Prerequisites
+***Here you can find my all notes, writups & methodology. feel free to share it with others !***
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+**Respect the Open-source Community**
 
-## Installation
+***
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+* **Site** =          [https://veilsec.org](https://veilsec.org)
+* **Blog** =          [https://sahilwep.github.io](https://sahilwep.github.io)
+* **GitHub** =        [https://github.com/sahilwep](https://github.com/sahilwep)
+* **Tryhackme** = [https://tryhackme.com/p/sahilwep](https://tryhackme.com/p/sahilwep)
 
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+***
