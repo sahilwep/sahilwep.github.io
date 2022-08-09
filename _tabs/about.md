@@ -13,22 +13,20 @@ order: 4
 ***I am sahil, a cyber-sec enthusiast who work as a Red-Teamer and i spend most of my time on playing CTF and Bug Hunting.***
 
 *Here you can find my all notes, writups & methodology. feel free to share it with others !*
+*** 
 
+## Notes
 
-$$NOTES$$
-
-***
-
-### **[+]  OSCP NOTES** => [https://sahilwep.gitbook.io/veilsec/oscp-notes/getting-comfortable-with-kali](https://sahilwep.gitbook.io/veilsec/oscp-notes/getting-comfortable-with-kali)
+#### **[+]  OSCP NOTES** => [https://sahilwep.gitbook.io/veilsec/oscp-notes/getting-comfortable-with-kali](https://sahilwep.gitbook.io/veilsec/oscp-notes/getting-comfortable-with-kali)
 
 ***
-### **[+]  SANS-SEC-542 Notes**  => [https://sahilwep.gitbook.io/veilsec/sans-sec-542-notes/module-1](https://sahilwep.gitbook.io/veilsec/sans-sec-542-notes/module-1)
+#### **[+]  SANS-SEC-542 Notes**  => [https://sahilwep.gitbook.io/veilsec/sans-sec-542-notes/module-1](https://sahilwep.gitbook.io/veilsec/sans-sec-542-notes/module-1)
 
 ***
-### **[+]  TryHackMe write-ups** => [https://sahilwep.gitbook.io/tryhackme/](https://sahilwep.gitbook.io/tryhackme/)
+#### **[+]  TryHackMe write-ups** => [https://sahilwep.gitbook.io/tryhackme/](https://sahilwep.gitbook.io/tryhackme/)
 
 ***
-$$Social\ media$$
+## S0ci4l m3di4
 
 
 * **Site** =          [https://veilsec.org](https://veilsec.org)
