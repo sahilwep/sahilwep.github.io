@@ -12,8 +12,7 @@ order: 4
 
 ***I am sahil, a cyber-sec enthusiast who work as a Red-Teamer and i spend most of my time on playing CTF and Bug Hunting.***
 
-*Here you can find my all notes, writups & methodology. feel free to share it with others !*
-*** 
+*Here you can find my all notes, writ-ups & methodology. feel free to share it with others !*  
 
 ## Notes
 
