@@ -14,9 +14,7 @@
 
 ***
 
-* **Site** =          [https://veilsec.org](https://veilsec.org)
 * **Blog** =          [https://sahilwep.github.io](https://sahilwep.github.io)
 * **GitHub** =        [https://github.com/sahilwep](https://github.com/sahilwep)
-* **Tryhackme** = [https://tryhackme.com/p/sahilwep](https://tryhackme.com/p/sahilwep)
 
 ***
